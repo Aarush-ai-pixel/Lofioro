@@ -4,7 +4,7 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head>
-        <meta name="google-site-verification" content="googleaef715f842cf65e8" />
+        <meta name="google-site-verification" content="CQzg7Tq3C-QMfysSFfvLlwnYvxk-Ojh-tJU7gMY_jRc" />
         <meta name="description" content="Lofioro - Focus Timer with Lofi Music and Gamification" />
         <meta name="keywords" content="focus, timer, lofi, music, productivity" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
